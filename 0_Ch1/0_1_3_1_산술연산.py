@@ -15,3 +15,9 @@ print("10 class is",type(10)) # <class 'int'> 출력
 print("2.718 class is",type(2.718)) # <class 'float'> 출력
 print(" \"Hello\" class is",type("Hello")) # <class 'str'> 출력
 
+# 1.3.3 변수 p.29
+x= 10 # 변수 x에 10을 대입
+print(x) # 10 출력
+x=100 # 변수 x에 100을 대입
+print(x) # 100 출력
+
