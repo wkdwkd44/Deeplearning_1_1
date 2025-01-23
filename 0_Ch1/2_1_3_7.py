@@ -6,3 +6,8 @@ if hungry:
     print("I'm hungry")
 else:
     print("I'm not hungry")
+
+# 1.3.8 for 문 p.33
+for i in [1, 2, 3]:
+    print(i)
+
