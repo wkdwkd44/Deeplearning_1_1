@@ -11,3 +11,13 @@ else:
 for i in [1, 2, 3]:
     print(i)
 
+# 1.3.9 함수 p.33
+# 함수는 def 를 통해 정의할 수 있습니다.
+def hello():
+    print("Hello World!")
+
+hello()
+# 또는 인자를 넣을 수 있습니다 . 
+def hello(object):
+    print("Hello " + object + "!")
+hello("cat")
