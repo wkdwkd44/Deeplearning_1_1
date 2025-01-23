@@ -14,3 +14,8 @@ print("a[:3] is",a[:3]) # a[:3] is [1,2,3]
 print("a[:-1] is",a[:-1]) # a[:-1] is [1,2,3,4]
 print("a[:-2] is",a[:-2]) # a[:-2] is [1,2,3]
 
+# 1.3.5 딕셔너리 
+# 딕셔너리는 키와 값을 한 쌍으로 저장할 수 있습니다.
+me = {'height':180} # 딕셔너리 생성
+print("me['height'] is",me['height']) # me['height'] is 180
+
