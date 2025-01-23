@@ -19,3 +19,14 @@ print("a[:-2] is",a[:-2]) # a[:-2] is [1,2,3]
 me = {'height':180} # 딕셔너리 생성
 print("me['height'] is",me['height']) # me['height'] is 180
 
+# 1.3.6 bool 
+# bool은 True, False를 나타냅니다.
+hungry = True # 배가 고프다.
+sleepy = False # 졸리지 않다.
+print("hungry is",hungry) # hungry is True
+print("sleepy is",sleepy) # sleepy is False
+# 그리고 and 와 or, not 연산자를 사용할 수 있습니다.
+print("hungry and sleepy is",hungry and sleepy) # hungry and sleepy is False
+print("hungry or sleepy is",hungry or sleepy) # hungry or sleepy is True
+print("not hungry is",not hungry) # not hungry is False
+
